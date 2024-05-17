@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_data_fragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Информация" />
+
+        <item
+            android:id="@+id/nav_webview_fragment"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Браузер" />
+        <item
+            android:id="@+id/nav_profile_fragment"
+            android:icon="@android:drawable/ic_menu_add"
+            android:title="Профиль" />
+
+        <item
+            android:id="@+id/nav_filemanagement_fragment"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="Создать файл" />
+
+        <item
+            android:id="@+id/nav_sensor_fragment"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Датичик" />
+
+
+        <item
+            android:id="@+id/nav_camera_fragment"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Камера" />
+
+        <item
+            android:id="@+id/nav_voice_fragment"
+            android:icon="@android:drawable/presence_audio_away"
+            android:title="Аудио" />
+
+        <item
+            android:id="@+id/nav_retrofit_fragment"
+            android:icon="@android:drawable/presence_audio_away"
+            android:title="Retrofit" />
+
+    </group>
+</menu>

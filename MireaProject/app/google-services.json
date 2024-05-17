@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156983187897",
+    "project_id": "mirea-project-panov",
+    "storage_bucket": "mirea-project-panov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156983187897:android:66d8c6a9cfa81fc32f7e68",
+        "android_client_info": {
+          "package_name": "ru.mirea.panov.mirea_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtb2Z3KTZG4AN9qDIUgVOAsm5E-ISd0hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

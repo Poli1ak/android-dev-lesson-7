@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814714617377",
+    "project_id": "lesson7-panov",
+    "storage_bucket": "lesson7-panov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814714617377:android:040be6a45a22cdef362d60",
+        "android_client_info": {
+          "package_name": "ru.mirea.panov.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1vg-cSkhEEbEuk46fOlTtHDhDE8U6WG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

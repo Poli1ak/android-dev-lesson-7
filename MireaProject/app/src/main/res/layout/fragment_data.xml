@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/text_data_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Информация"
+        android:textSize="24sp"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/text_industry_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:text="Информационные технологии - это отрасль, которая занимается разработкой, внедрением и поддержкой программного обеспечения, аппаратного обеспечения и других технических решений для обработки и передачи информации. Она охватывает такие области как разработка веб-приложений, мобильных приложений, баз данных, искусственного интеллекта, облачных вычислений и многие другие."
+        tools:text="Информационные технологии - это отрасль, которая занимается разработкой, внедрением и поддержкой программного обеспечения, аппаратного обеспечения и других технических решений для обработки и передачи информации. Она охватывает такие области как разработка веб-приложений, мобильных приложений, баз данных, искусственного интеллекта, облачных вычислений и многие другие." />
+
+</LinearLayout>

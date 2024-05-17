@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Имя" />
+
+    <EditText
+        android:id="@+id/editTextSurname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Фамилия" />
+
+    <EditText
+        android:id="@+id/editTextGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Группа в вузе" />
+
+    <EditText
+        android:id="@+id/editTextListNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Номер по списку" />
+
+    <EditText
+        android:id="@+id/editTextWorkplace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Место работы" />
+
+    <EditText
+        android:id="@+id/editTextStudyPlace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Место учебы" />
+
+    <Button
+        android:id="@+id/buttonSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Сохранить" />
+
+</LinearLayout>
